@@ -59,10 +59,14 @@ TRADESIMULATOR/
 git clone https://github.com/YOUR_USERNAME/TradeSimulator.git
 cd TradeSimulator
 
+---
+
 ### 2.Create a Virtual Enviornment
 ```bash
 python -m venv venv
 source venv/bin/activate
+
+---
 
 ### 3. Install Dependencies
 ```bash
