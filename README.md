@@ -8,7 +8,9 @@ A high-performance cryptocurrency trade simulator that leverages real-time Level
 
 TRADESIMULATOR/
 ├── config/ # Configuration files
+
 ├── data/ # Raw or snapshot data (excluded from Git)
+
 ├── logs/ # Logging output (excluded from Git)
 ├── models/ # Serialized ML models (e.g., slippage, taker models)
 ├── src/ # Core source code
