@@ -1,0 +1,12 @@
+websockets
+aiohttp
+pandas
+numpy
+scipy
+scikit-learn
+streamlit
+matplotlib
+python-dotenv
+pyyaml
+loguru
+pytest
